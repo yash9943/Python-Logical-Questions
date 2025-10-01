@@ -11,7 +11,7 @@ def timeit(func):
         end_time = time.time()
         execution_time = end_time - start_time
         print(f"Exectution time for {func.__name__} : {execution_time:.8f} seconds")
-        return result,
+        return result
     return wrapper
 
 @timeit
