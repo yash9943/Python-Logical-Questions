@@ -1,0 +1,10 @@
+{
+    "name": "yash",
+    "age": 21,
+    "course": "python",
+    "marks": [
+        50,
+        60,
+        70
+    ]
+}
