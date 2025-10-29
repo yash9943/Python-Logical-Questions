@@ -1,0 +1,3 @@
+lst.sort()
+
+print(lst)
